@@ -11,7 +11,9 @@ _**I am happy to introduce CIAB v5**_ of the CIAB Remote Desktop System.
 
 **CIAB** ("*Cloud-In-A-Box*") Remote Desktop System is a server application that integrates and extends the [Apache Guacamole](https://guacamole.apache.org/) clientless remote desktop gateway on a Ubuntu 20.04 LTS host with all applications running in LXD System Containers.   
 
-_Using **only** a web browser that supports HTML5, users can connect to a **CIAB System installed either locally or remotely on Cloud, VM or Physical Server**._      
+_Using **only** a web browser that supports HTML5, users can connect to a **CIAB System installed either locally or remotely on Cloud, VM or Physical Server**._  
+
+  
 _During installation the Admin can choose from many different **Desktop Environments** including:_  
 - Kubuntu (re KDE)  
 - Lubuntu (re LXDE)  
