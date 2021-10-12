@@ -30,8 +30,9 @@ CIAB installation will create two LXD containers:
  
 - **ciab-cn1** - which will have an installer's choice of *Desktop Envrionment* installed in it  
 - **ciab-guac** - will have Guacamole, Tomcat9, PostgreSQL, and NGINX installed via Docker in *ciab-guac*.   We create the LXD "_**ciab-guac**_" container  
-   with the command option to _**"enable**_ container _**"nesting"**_. This is why we are able to install Docker _"inside"_ the LXD "_**ciab-guac**_"  
-   container  
+   with the command option to _**"enable**_ container _**"nesting"**_. 
+   
+   This is why we are able to install Docker _"inside"_ the LXD "_**ciab-guac**_" container.  
    
 Once installation is complete you can access both Guacamole & the ciab-cn1 based Desktop using any HTML5 Web Browser.  
    
