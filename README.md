@@ -22,7 +22,7 @@ _During installation the Admin can choose from many different **Desktop Environm
 
 --- 
 
-####_ **CIAB - "Cloud in a Box"**_  
+#### _**CIAB - "Cloud in a Box"**_  
 
 The file _**"install-ciab.zip"**_ includes _**all**_ of the installation Bash Scripts and associated files required to create an *LXD container based CIAB Remote Desktop System*.  
 
