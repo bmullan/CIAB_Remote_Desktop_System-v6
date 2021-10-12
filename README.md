@@ -35,7 +35,7 @@ CIAB installation will create two LXD containers:
    
 Once installation is complete you can access both Guacamole & the ciab-cn1 based Desktop using any HTML5 Web Browser.  
    
-We configure _Guacamole/NGINX_ etc with a _**"self-signed"**_ certificate to allow support for using HTTPS.   This means the connection **from** a User **to**  
+We configure _Guacamole/NGINX_ etc with a _**"self-signed"**_ certificate to allow support for using HTTPS.   This means the connection **from** a User **to**    
 the Remote Desktop is _**encrypted**_.  
 
 ---
