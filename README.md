@@ -1,3 +1,14 @@
+![ciab-logo](https://user-images.githubusercontent.com/1682855/51850975-ea4e3480-22f0-11e9-9128-d945e1e2a9ab.png?classes=float-left)  
+
+**I am happy to introduce CIAB v3 !**  a major upgrade & refactoring of the CIAB Remote Desktop System.
+
+
+**CIAB** ("*Cloud-In-A-Box*") v3 Remote Desktop System is a server application that integrates and extends the [Apache Guacamole](https://guacamole.apache.org/) clientless remote desktop gateway on a Ubuntu 18.04 LTS host with LXD containers. 
+
+The CIAB Administrator can also easily deploy a number of web applications (see below) using a GUI tool provided on the Admin's Desktop.
+
+Using **only** a web browser that supports HTML5, users can connect to this web interface and access web applications and the Ubuntu Mate desktop as pre-configured and authorized by the CIAB administrator.
+
 
 ![ ](/home/bmullan/ciab/ciab-desktop/ciab-v5/documentation/line-break.png  "line-break")  
 
