@@ -53,15 +53,10 @@ This means the connection **from** a User **to** the Remote Desktop is _**encryp
 _Installation of CIAB is predominately automated and requires minimal input by the Admin/Installer!_  
   
 **Steps to Install CIAB:**   
-Follow the Installation Diagrams & Information in the _**CIAB Remote Desktop System Installation Guide.PDF**_
+Follow the Installation Diagrams & Information in the _**[CIAB Remote Desktop System Installation Guide.PDF](https://github.com/bmullan/CIAB_Remote_Desktop_System-v6/blob/main/CIAB%20Remote%20Desktop%20System%20Installation.pdf)**_
 
 ---
 
 ---
 
-At this point, refer to the [CIAB README - CIAB Installation.pdf](https://github.com/bmullan/CIAB_Remote_Desktop_System-v5/blob/main/README%20-%20CIAB%20Installation.pdf) for all addtional Installation Steps...!
-
----
-
----
 
