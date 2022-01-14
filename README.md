@@ -51,6 +51,11 @@ This means the connection **from** a User **to** the Remote Desktop is _**encryp
 ---  
 
 _Installation of CIAB is predominately automated and requires minimal input by the Admin/Installer!_  
+
+Execute the following 2 Bash scripts extracted from the CIAB.ZIP file
+
+> 1. **ciab-pre-install.sh**
+> 2. **ciab-install.sh**
   
 **Steps to Install CIAB:**   
 Follow the Installation Diagrams & Information in the _**[CIAB Remote Desktop System Installation Guide.PDF](https://github.com/bmullan/CIAB_Remote_Desktop_System-v6/blob/main/CIAB%20Remote%20Desktop%20System%20Installation.pdf)**_
