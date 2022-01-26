@@ -5,6 +5,8 @@
 
 ---  
 
+*Installation time is approx 13-15 minutes.*
+
 ---  
 
 _**I am happy to introduce CIAB v6**_ of the CIAB Remote Desktop System.  
