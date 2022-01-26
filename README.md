@@ -60,9 +60,6 @@ Execute the following 2 Bash scripts extracted from the CIAB.ZIP file
 **Steps to Install CIAB:**   
 Follow the Installation Diagrams & Information in the _**[CIAB Remote Desktop System Installation Guide.PDF](https://github.com/bmullan/CIAB_Remote_Desktop_System-v6/blob/main/CIAB%20Remote%20Desktop%20System%20Installation.pdf)**_
 
-_**Important Note**_
-
-If you want to use the MATE or Budgie Desktop Environments make sure you read the Section in the above PDF titled:   _**Installation Errata**_
 
 ---
 
