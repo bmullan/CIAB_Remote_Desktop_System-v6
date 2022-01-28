@@ -44,10 +44,10 @@ We configure _Guacamole/NGINX_ etc with a _**"self-signed"**_ certificate to all
   
 This means the connection **from** a User **to** the Remote Desktop is _**encrypted**_.  
 
+---
+
 _**NOTE**_ 
 *With CIAB-Guacamole for user "Connections" you can configure CIAB-Guacamole to also connect to Windows Servers !*
-
----
 
 ---
   
