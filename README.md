@@ -17,12 +17,12 @@ _Using **only** a web browser that supports HTML5, users can connect to a **CIAB
 
   
 _During installation the Admin can choose from many different **Desktop Environments** including:_  
-- Kubuntu (re KDE)  
 - Lubuntu (re LXDE)  
 - Ubuntu Budgie  
 - Ubuntu Gnome  
 - Ubuntu MATE  
 - Xubuntu (re XFCE)  
+- Kubuntu (re KDE) - **NOTE**: *The KDE desktop is not implemented at this time but hopefully soon.* 
 
 --- 
 
